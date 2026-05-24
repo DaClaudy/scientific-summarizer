@@ -1,0 +1,3 @@
+model,ROUGE-1,ROUGE-2,ROUGE-L,BERTScore-P,BERTScore-R,BERTScore-F1,avg_length,min_length,max_length
+Lead-3,0.2781,0.0813,0.1688,0.8426,0.8164,0.8291,89.47,28,338
+FineTuned-t5-small,0.2993,0.1004,0.1805,0.8495,0.8158,0.832,74.44,34,157
